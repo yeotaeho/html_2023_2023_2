@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+
+
+      /*슬라이더*/
+      #slider {width:1475px; height:560px;  margin:0 auto;}
+      #slider > img {width:100%; height:100%;}
+      /*main*/
+      section {width:1280px; height:405px;  margin:0 auto;}
+      section  h3 {font-size:20px; height:40px;}
+
+
+      #news {width:345px; height:155px;  float:left; margin:30px 0 0 40px;}
+      #news > table a {text-decoration:none; font-size:12px; color:#000;}
+
+
+      #icon {width:455px; height:155px; float:left; margin:30px 0 0 30px;}
+      #icon > .iconbox {width:75px; height:75px;  float:left; margin:20px 10px 0 0px; text-align:center;}
+      #icon > .iconbox > a > img {width:50px; height:50px;}
+      #icon > .iconbox > span > a {text-decoration:none; color:#000; font-size:12px; display:block; text-align:center;}
+
+      #brand {width:330px; height:155px;  float:left; margin:30px 0 0 30px;}
+      #brand > p > a {font-size:12px; text-decoration:none; color:#000;}
+      #brand > h5 > a {font-size:15px; text-decoration:none; color:#000; float:left; margin:10px 0 0 0px;}
+
+
+      #promotion {width:345px; height:150px;  float:left; margin:30px 0 0 40px;}
+      #promotion > p > a {font-size:12px; text-decoration:none; color:#000; float:left; width:200px; height:50px;}
+      #promotion > a > img {width:100px; height:100px; float:right;}
+
+
+      #camp {width:455px; height:150px;  float:left; margin:30px 0 0 30px;}
+      #camp > p > a {font-size:12px; text-decoration:none; color:#000; float:left; width:200px; height:50px;}
+      #camp > a > img {width:200px; height:100px; float:right;}
+
+      #store {width:330px; height:150px; float:left; margin:30px 0 0 30px;}
+      #store > p > a {font-size:12px; text-decoration:none; color:#000; float:left; width:200px; height:50px;}
+      #store > a > img {width:100px; height:100px; float:right;}
+
+
+
